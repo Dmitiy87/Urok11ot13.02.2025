@@ -17,3 +17,12 @@ function main_function() {
         }
     )
 }
+
+document.getElementById("myButton"). click;
+function () {
+    console.log(this.value);
+    
+});
+
+
+
